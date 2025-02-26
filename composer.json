@@ -15,7 +15,7 @@
     },
     "require": {
         "ext-json": "*",
-        "cloudflare/sdk": "^1.3",
+        "cloudflare/sdk": "*",
         "drupal/ctools": "^3.0 || ^4.0"
     },
     "require-dev": {
